@@ -1,0 +1,21 @@
+
+
+.kilig img{
+    width: 200px;
+}
+
+.kilig{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap:3em;
+}
+video {
+ height: 300px;
+ width: 200px;
+}
+
+.ay {
+  font-size: 60px;
+}
